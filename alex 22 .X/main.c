@@ -9,6 +9,9 @@
 #include <avr/io.h>
 
 int main(void) {
+    int c;
+    int j;
+    
     /* Replace with your application code */
     while (1) {
     }
